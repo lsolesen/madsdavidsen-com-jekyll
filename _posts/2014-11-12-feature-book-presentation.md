@@ -11,4 +11,4 @@ I have the past years done several presentations / lectures and had some very go
 
 For more information - please take a look here:
 
-<http://madsdavidsen.com/book-presentation>
+<http://madsdavidsen.com/book/>
