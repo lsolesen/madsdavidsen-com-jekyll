@@ -8,8 +8,6 @@ main:
     url: /blog-tags/columns
   - title: "In the media"
     url: /blog-tags/media
-  - title: "中文网站"
-    url: /blog-tags/中文网站
 sidebar:
   - title: "Shortcuts"
     children:
