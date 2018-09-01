@@ -20,5 +20,3 @@ A few of the articles / radio shows can be found below (in Danish):
 [http://www.dr.dk/radio/ondemand/p1/p1-morgen-2016-02-06#!/](http://www.dr.dk/radio/ondemand/p1/p1-morgen-2016-02-06#!/)
 
 <http://politiken.dk/sport/fodbold/ECE3047475/de-koeber-pludselig-store-fodboldstjerner-i-kina/>
-
-<http://www.mx.dk/sport/sportsnyheder/story/28164335>
