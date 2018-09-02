@@ -28,9 +28,11 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Excerpt", name: "excerpt", widget: "string"}      
-      - {label: "Body", name: "body", widget: "markdown"}
       - label: "Header"
         name: "header"
         widget: "object"
         fields: 
           - {label: "Overlay image", name: "overlay_image", widget: "image"}
+          - {label: "Header image", name: "image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
