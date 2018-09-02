@@ -17,9 +17,11 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "hidden"}      
       - {label: "Category", name: "category", widget: "select", options: ["Daily life", "Articles", "Columns", "In the media", "中文网站"]}
       - {label: "Language", name: "language", widget: "select", options: ["en", "da"]}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Modified", name: "modified", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss ZZ"}
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
     label: "Pages" # Used in the UI
     folder: "_pages/" # The path to the folder where the documents are stored
@@ -27,13 +29,13 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Permalink", name: "permalink", widget: "string"}
-      - {label: "Author profile", name: "author_profile", widget: "select", options: ["true", "false"]}
-      - {label: "Excerpt", name: "excerpt", widget: "string"}  
+      - {label: "Permalink", name: "permalink", widget: "hidden"}
+      - {label: "Excerpt", name: "excerpt", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}      
       - label: "Header"
         name: "header"
         widget: "object"
         fields: 
           - {label: "Overlay image", name: "overlay_image", widget: "image"}
           - {label: "Header image", name: "image", widget: "image"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Author profile", name: "author_profile", widget: "select", options: ["true", "false"]}
