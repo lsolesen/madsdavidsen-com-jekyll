@@ -27,7 +27,9 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Excerpt", name: "excerpt", widget: "string"}      
+      - {label: "Permalink", name: "permalink", widget: "string"}
+      - {label: "Author profile", name: "author_profile", widget: "select", options: ["true", "false"]}
+      - {label: "Excerpt", name: "excerpt", widget: "string"}  
       - label: "Header"
         name: "header"
         widget: "object"
@@ -35,4 +37,3 @@ collections:
           - {label: "Overlay image", name: "overlay_image", widget: "image"}
           - {label: "Header image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
-
