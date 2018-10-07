@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme:            "mmistakes/minimal-mistakes@4.12.2"
+remote_theme:            "mmistakes/minimal-mistakes@4.13.0"
 minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # Site Settings
@@ -77,32 +77,20 @@ author:
   name             : "Mads Davidsen"
   avatar           : "/assets/images/authors/mads-davidsen.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "UEFA Pro Football Coach | Technical Director at Shanghai SIPG F.C. (China) | Author of With Great Talent Comes Great Responsibility | Key note speaker"
-  location         :
-  email            :
-  uri              : "https://madsdavidsen.com"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : "Mads.Davidsen1982"
-  foursquare       :
-  github           :
-  gitlab           :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : "mads-davidsen/5/754/900"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
-  tumblr           :
-  twitter          : "MadsRDavidsen"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
+  location         : "Shanghai, China"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://madsdavidsen.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/MadsRDavidsen"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/Mads.Davidsen1982"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://dk.linkedin.com/in/mads-davidsen-9007545"
 
 
 # Reading Files
