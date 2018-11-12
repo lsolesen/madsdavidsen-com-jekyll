@@ -1,5 +1,5 @@
 ---
-title: In the media
+title: Media
 layout: category
 permalink: /blog-tags/media
 taxonomy: Media
