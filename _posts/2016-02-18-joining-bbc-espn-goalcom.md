@@ -3,7 +3,7 @@ title: "Joining BBC, ESPN & Goal.com"
 permalink: /blog/joining-bbc-espn-goalcom
 language: en
 category:
-  - In the media
+  - Media
 modified: 2016-02-18T02:48:25Z
 ---
 

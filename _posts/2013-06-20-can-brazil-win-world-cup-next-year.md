@@ -3,7 +3,7 @@ title: "Can Brazil win the World Cup next year?"
 permalink: /blog/can-brazil-win-world-cup-next-year
 language: en
 category:
-  - Articles
+  - Columns
 modified: 2013-06-20T14:44:41Z
 ---
 

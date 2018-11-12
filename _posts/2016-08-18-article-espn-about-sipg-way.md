@@ -3,7 +3,7 @@ title: "Article with ESPN about 'The SIPG Way'"
 permalink: /blog/article-espn-about-sipg-way
 language: en
 category:
-  - In the media
+  - Media
 modified: 2016-08-18T07:58:12Z
 ---
 

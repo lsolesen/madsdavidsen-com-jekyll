@@ -3,7 +3,7 @@ title: "Video Analysis: CSL-Season Round Up"
 permalink: /blog/video-analysis-csl-season-round
 language: en
 category:
-  - In the media
+  - Media
 modified: 2013-12-09T18:53:05Z
 ---
 

@@ -3,7 +3,7 @@ title: "Chinese players can benefit Danish football"
 permalink: /blog/chinese-players-can-benefit-danish-football
 language: en
 category:
-  - In the media
+  - Media
 modified: 2013-04-07T03:08:22Z
 ---
 

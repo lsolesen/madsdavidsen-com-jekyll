@@ -3,7 +3,7 @@ title: "Video analysis - The coaching style of Lippi"
 permalink: /blog/video-analysis-coaching-style-lippi
 language: en
 category:
-  - In the media
+  - Media
 modified: 2013-11-28T08:16:56Z
 ---
 

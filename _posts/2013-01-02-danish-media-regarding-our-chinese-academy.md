@@ -3,7 +3,7 @@ title: "Danish media regarding our Chinese Academy"
 permalink: /blog/danish-media-regarding-our-chinese-academy
 language: en
 category:
-  - In the media
+  - Media
 modified: 2013-04-07T03:00:14Z
 ---
 

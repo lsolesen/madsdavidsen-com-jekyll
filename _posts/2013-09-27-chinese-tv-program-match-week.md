@@ -3,7 +3,7 @@ title: "Chinese TV-program - Match of the week"
 permalink: /blog/chinese-tv-program-match-week
 language: en
 category:
-  - In the media
+  - Media
 modified: 2013-11-13T05:48:38Z
 ---
 

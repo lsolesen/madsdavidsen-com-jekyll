@@ -3,7 +3,7 @@ title: "Interview on the future of Chinese football"
 permalink: /blog/interview-future-chinese-football
 language: en
 category:
-  - In the media
+  - Media
 modified: 2015-07-23T14:38:40Z
 ---
 

@@ -3,7 +3,7 @@ title: "Cultural intelligence strategy"
 permalink: /blog/cultural-intelligence-strategy
 language: en
 category:
-  - In the media
+  - Media
 modified: 2017-02-17T08:39:33Z
 ---
 

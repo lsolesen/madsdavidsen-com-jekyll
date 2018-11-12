@@ -3,7 +3,7 @@ title: "Foreign coaches, homegrown rules & China’s effort to develop own talen
 permalink: /blog/foreign-coaches-homegrown-rules-china’s-effort-develop-own-talent
 language: en
 category:
-  - In the media
+  - Media
 modified: 2017-08-30T03:18:14Z
 ---
 

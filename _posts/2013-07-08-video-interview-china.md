@@ -3,7 +3,7 @@ title: "Video: Interview in China"
 permalink: /blog/video-interview-china
 language: en
 category:
-  - In the media
+  - Media
 modified: 2013-07-08T11:34:59Z
 ---
 

@@ -3,7 +3,7 @@ title: "WEF: Danes open football academy in Shanghai"
 permalink: /blog/wef-danes-open-football-academy-shanghai
 language: en
 category:
-  - In the media
+  - Media
 modified: 2013-04-07T03:07:18Z
 ---
 

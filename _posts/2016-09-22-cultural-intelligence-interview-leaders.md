@@ -3,7 +3,7 @@ title: "Cultural intelligence-interview with LEADERS"
 permalink: /blog/cultural-intelligence-interview-leaders
 language: en
 category:
-  - In the media
+  - Media
 modified: 2016-09-22T15:31:56Z
 ---
 

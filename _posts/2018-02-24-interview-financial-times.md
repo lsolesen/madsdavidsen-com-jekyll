@@ -3,7 +3,7 @@ title: "Interview with The Financial Times"
 permalink: /blog/interview-financial-times
 language: en
 category:
-  - In the media
+  - Media
 modified: 2018-02-24T09:38:49Z
 ---
 

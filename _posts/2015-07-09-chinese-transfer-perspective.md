@@ -3,7 +3,7 @@ title: "The Chinese transfer perspective"
 permalink: /blog/chinese-transfer-perspective
 language: en
 category:
-  - Articles
+  - Columns
 modified: 2015-07-09T14:37:13Z
 ---
 

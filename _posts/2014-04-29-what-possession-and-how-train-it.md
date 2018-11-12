@@ -3,7 +3,7 @@ title: "What is possession - and how to train it?"
 permalink: /blog/what-possession-and-how-train-it
 language: en
 category:
-  - Articles
+  - Columns
 modified: 2014-04-29T05:57:14Z
 ---
 

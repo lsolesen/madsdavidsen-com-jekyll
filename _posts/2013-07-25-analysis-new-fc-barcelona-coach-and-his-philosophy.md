@@ -3,7 +3,7 @@ title: "Analysis on the new FC Barcelona coach and his philosophy"
 permalink: /blog/analysis-new-fc-barcelona-coach-and-his-philosophy
 language: en
 category:
-  - Articles
+  - Columns
 modified: 2013-07-25T05:50:46Z
 ---
 

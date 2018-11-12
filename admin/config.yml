@@ -18,7 +18,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "hidden"}      
-      - {label: "Category", name: "category", widget: "select", options: ["Daily life", "Articles", "Columns", "In the media"]}
+      - {label: "Category", name: "category", widget: "select", options: ["Daily life", "Strategic Planning & Coaching", "Columns", "Media"]}
       - {label: "Language", name: "language", widget: "select", options: ["en", "da"]}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Modified", name: "modified", widget: "hidden"}

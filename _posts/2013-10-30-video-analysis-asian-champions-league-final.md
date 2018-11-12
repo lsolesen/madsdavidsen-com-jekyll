@@ -3,7 +3,7 @@ title: "Video analysis: Asian Champions League Final"
 permalink: /blog/video-analysis-asian-champions-league-final
 language: en
 category:
-  - In the media
+  - Media
 modified: 2013-10-30T02:50:17Z
 ---
 

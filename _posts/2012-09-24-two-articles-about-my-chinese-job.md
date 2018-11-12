@@ -3,7 +3,7 @@ title: "Two articles about my Chinese job"
 permalink: /blog/two-articles-about-my-chinese-job
 language: en
 category:
-  - In the media
+  - Media
 modified: 2013-04-07T03:14:39Z
 ---
 

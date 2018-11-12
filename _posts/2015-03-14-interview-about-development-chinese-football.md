@@ -3,7 +3,7 @@ title: "Interview about the development of Chinese football"
 permalink: /blog/interview-about-development-chinese-football
 language: en
 category:
-  - In the media
+  - Media
 modified: 2015-03-14T15:28:19Z
 ---
 

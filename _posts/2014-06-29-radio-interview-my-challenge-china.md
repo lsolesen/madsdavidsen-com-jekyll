@@ -3,7 +3,7 @@ title: "Radio interview: My challenge in China"
 permalink: /blog/radio-interview-my-challenge-china
 language: en
 category:
-  - In the media
+  - Media
 modified: 2014-07-01T17:34:15Z
 ---
 

@@ -4,7 +4,7 @@ permalink: /blog/succession-planning-requires-strategy
 language: en
 category:
   - Columns
-  - In the media
+  - Media
 modified: 2017-07-24T15:53:51Z
 ---
 

@@ -3,7 +3,7 @@ title: "Insights on Chinese football"
 permalink: /blog/insights-chinese-football
 language: en
 category:
-  - In the media
+  - Media
 modified: 2016-07-28T14:22:58Z
 ---
 

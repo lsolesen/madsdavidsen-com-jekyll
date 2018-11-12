@@ -3,7 +3,7 @@ title: "Newsweek-interview on the development of Chinese football"
 permalink: /blog/newsweek-interview-development-chinese-football
 language: en
 category:
-  - In the media
+  - Media
 modified: 2017-03-19T15:57:07Z
 ---
 

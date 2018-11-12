@@ -3,7 +3,7 @@ title: "Interview with Manchester United-TV"
 permalink: /blog/interview-manchester-united-tv
 language: en
 category:
-  - In the media
+  - Media
 modified: 2016-07-21T07:43:26Z
 ---
 

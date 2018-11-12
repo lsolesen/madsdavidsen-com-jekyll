@@ -3,7 +3,7 @@ title: "Media: Dane new boss in Shanghai"
 permalink: /blog/media-dane-new-boss-shanghai
 language: und
 category:
-  - In the media
+  - Media
 modified: 2013-04-07T03:29:19Z
 ---
 

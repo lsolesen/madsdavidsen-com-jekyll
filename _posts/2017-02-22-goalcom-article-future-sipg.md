@@ -3,7 +3,7 @@ title: "Goal.com-article: The future for SIPG"
 permalink: /blog/goalcom-article-future-sipg
 language: en
 category:
-  - In the media
+  - Media
 modified: 2017-02-22T14:28:52Z
 ---
 

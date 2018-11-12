@@ -3,7 +3,7 @@ title: "Danish coach with ambitions"
 permalink: /blog/danish-coach-ambitions
 language: en
 category:
-  - In the media
+  - Media
 modified: 2013-04-07T04:12:54Z
 ---
 

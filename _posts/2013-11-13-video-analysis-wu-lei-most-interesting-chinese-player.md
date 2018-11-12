@@ -3,7 +3,7 @@ title: "Video analysis: Wu Lei - The most interesting Chinese player"
 permalink: /blog/video-analysis-wu-lei-most-interesting-chinese-player
 language: en
 category:
-  - In the media
+  - Media
 modified: 2013-11-13T05:57:53Z
 ---
 

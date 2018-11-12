@@ -3,7 +3,7 @@ title: "Radio show: Beyond The Pitch"
 permalink: /blog/radio-show-beyond-pitch
 language: en
 category:
-  - In the media
+  - Media
 modified: 2014-01-17T13:28:26Z
 ---
 

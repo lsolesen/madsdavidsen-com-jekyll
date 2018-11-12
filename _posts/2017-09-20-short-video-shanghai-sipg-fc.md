@@ -4,7 +4,7 @@ permalink: /blog/short-video-shanghai-sipg-fc
 language: en
 category:
   - Daily life
-  - In the media
+  - Media
 modified: 2017-09-20T02:59:49Z
 ---
 

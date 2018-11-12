@@ -3,7 +3,7 @@ title: "To manage other aspects than 4-2-3-1"
 permalink: /blog/manage-other-aspects-4-2-3-1
 language: en
 category:
-  - Articles
+  - Columns
 modified: 2013-11-27T08:53:35Z
 ---
 

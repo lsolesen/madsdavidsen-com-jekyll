@@ -2,6 +2,6 @@
 title: In the media
 layout: category
 permalink: /blog-tags/media
-taxonomy: In the media
+taxonomy: Media
 author_profile: true
 ---

@@ -3,7 +3,7 @@ title: "Interview with GOAL about Chinese football"
 permalink: /blog/interview-goal-about-chinese-football
 language: en
 category:
-  - In the media
+  - Media
 modified: 2015-02-01T15:01:23Z
 ---
 

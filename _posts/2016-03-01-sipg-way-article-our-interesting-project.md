@@ -3,7 +3,7 @@ title: "The SIPG Way - article on our interesting project"
 permalink: /blog/sipg-way-article-our-interesting-project
 language: en
 category:
-  - Articles
+  - Columns
 modified: 2016-03-01T14:57:33Z
 ---
 

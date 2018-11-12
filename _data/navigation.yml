@@ -2,11 +2,11 @@
 main:
   - title: "Daily Life"
     url: /blog-tags/daily-life
-  - title: "Articles"
-    url: /blog-tags/articles
+  - title: "Strategic Planning & Coaching"
+    url: /blog-tags/strategic-coaching
   - title: "Columns"
     url: /blog-tags/columns
-  - title: "In the media"
+  - title: "Media"
     url: /blog-tags/media
 sidebar:
   - title: "Shortcuts"

@@ -3,7 +3,7 @@ title: "Danish TV: Chinese player in Denmark"
 permalink: /blog/danish-tv-chinese-player-denmark
 language: en
 category:
-  - In the media
+  - Media
 modified: 2013-04-07T03:05:46Z
 ---
 

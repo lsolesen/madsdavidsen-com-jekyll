@@ -3,7 +3,7 @@ title: "Is there any substance to China’s football revolution?"
 permalink: /blog/there-any-substance-china’s-football-revolution
 language: en
 category:
-  - In the media
+  - Media
 modified: 2017-08-29T02:44:18Z
 ---
 

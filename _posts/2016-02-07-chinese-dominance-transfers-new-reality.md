@@ -3,7 +3,7 @@ title: "Chinese dominance on transfers: The New Reality"
 permalink: /blog/chinese-dominance-transfers-new-reality
 language: en
 category:
-  - In the media
+  - Media
 modified: 2016-02-07T15:23:08Z
 ---
 

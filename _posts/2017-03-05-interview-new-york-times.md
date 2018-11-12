@@ -3,7 +3,7 @@ title: "Interview with The New York Times"
 permalink: /blog/interview-new-york-times
 language: en
 category:
-  - In the media
+  - Media
 modified: 2017-03-05T06:20:26Z
 ---
 

@@ -3,7 +3,7 @@ title: "Interview: My analysis on Chinese football"
 permalink: /blog/interview-my-analysis-chinese-football
 language: en
 category:
-  - In the media
+  - Media
 modified: 2013-04-21T11:36:59Z
 ---
 

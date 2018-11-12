@@ -3,7 +3,7 @@ title: "Joining BBC World of Football"
 permalink: /blog/joining-bbc-world-football
 language: en
 category:
-  - In the media
+  - Media
 modified: 2016-10-14T13:00:35Z
 ---
 

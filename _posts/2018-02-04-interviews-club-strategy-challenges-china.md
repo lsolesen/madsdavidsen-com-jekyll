@@ -3,7 +3,7 @@ title: "Interviews on club strategy & challenges in China"
 permalink: /blog/interviews-club-strategy-challenges-china
 language: en
 category:
-  - In the media
+  - Media
 modified: 2018-02-04T10:41:03Z
 ---
 

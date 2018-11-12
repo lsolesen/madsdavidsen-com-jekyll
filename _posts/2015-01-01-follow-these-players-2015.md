@@ -3,7 +3,7 @@ title: "Follow these players in 2015"
 permalink: /blog/follow-these-players-2015
 language: en
 category:
-  - In the media
+  - Media
 modified: 2015-01-01T16:17:25Z
 ---
 

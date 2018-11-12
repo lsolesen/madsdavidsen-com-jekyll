@@ -3,7 +3,7 @@ title: "UEFA PRO assignment: How important is the feedback culture?"
 permalink: /blog/uefa-pro-assignment-how-important-feedback-culture
 language: en
 category:
-  - Articles
+  - Columns
 modified: 2015-05-04T08:54:15Z
 ---
 

@@ -3,7 +3,7 @@ title: "Daily Mail on Chinese football"
 permalink: /blog/daily-mail-chinese-football
 language: en
 category:
-  - In the media
+  - Media
 modified: 2017-08-17T10:12:33Z
 ---
 

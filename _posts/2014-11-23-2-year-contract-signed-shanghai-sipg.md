@@ -3,7 +3,7 @@ title: "2-year contract signed with Shanghai SIPG"
 permalink: /blog/2-year-contract-signed-shanghai-sipg
 language: en
 category:
-  - In the media
+  - Media
 modified: 2014-11-29T01:45:52Z
 ---
 

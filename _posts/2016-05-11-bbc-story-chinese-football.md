@@ -3,7 +3,7 @@ title: "BBC-story on Chinese football"
 permalink: /blog/bbc-story-chinese-football
 language: en
 category:
-  - In the media
+  - Media
 modified: 2016-05-11T05:46:44Z
 ---
 

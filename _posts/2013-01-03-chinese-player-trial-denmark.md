@@ -3,7 +3,7 @@ title: "Chinese player on trial in Denmark"
 permalink: /blog/chinese-player-trial-denmark
 language: en
 category:
-  - In the media
+  - Media
 modified: 2013-04-07T02:42:38Z
 ---
 

@@ -3,7 +3,7 @@ title: "Article - Bloomberg Business"
 permalink: /blog/article-bloomberg-business
 language: en
 category:
-  - In the media
+  - Media
 modified: 2017-07-16T04:35:34Z
 ---
 

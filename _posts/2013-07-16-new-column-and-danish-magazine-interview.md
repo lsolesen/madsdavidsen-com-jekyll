@@ -3,7 +3,7 @@ title: "New column and Danish magazine interview"
 permalink: /blog/new-column-and-danish-magazine-interview
 language: en
 category:
-  - In the media
+  - Media
 modified: 2013-07-16T03:28:28Z
 ---
 
