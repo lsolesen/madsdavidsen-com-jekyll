@@ -1,5 +1,5 @@
 ---
-title: Book a presentation
+title: Keynote Speaker
 permalink: /book/
 excerpt: >-
   UEFA Pro Football Coach - Technical Director at Shanghai SIPG F.C. (China) -
@@ -8,21 +8,17 @@ header:
   image: /assets/images/md-speaks.jpg
 author_profile: true
 ---
-Mads Davidsen has in the past years done presentations for companies, clubs, organisations and universities and you can book him for a presentation as well in Danish or English language. Mads has a great experience theoretically through his university- and football related educations and practically leadership wise from the professional world in Denmark and China.
+Mads Davidsen has in the past years done presentations for companies, clubs, organisations and universities. Mads has a great experience theoretically through his university- and football related educations and practically leadership wise from the professional world in Denmark and China.
 
 Mads' lectures covers the down below subjects and will be arranged and planned so it suits your organisations needs 100%.
 
-
-
 _\- A talent development discussion across cultures, diversity and continents: “How to manage the unmanageable?” _
 
-_\- Organisational succession planning: “How to build and implement a strategy to fulfil your ambitions over time?” _
+_\- Organisational succession planning: “How to build and implement a strategy to fulfil your vision over time - including the use of 'big data'?” _
 
 _\- Strategies & Football by 2025: “What are the demands of the modern game and how can we plan and work towards it”? _
 
 _\- Motivation & feedback culture: “How do we lead other people”? Including empirical field study cases from my book ‘With great talent comes great responsibility'_
-
-
 
 # **Endorsements**
 
