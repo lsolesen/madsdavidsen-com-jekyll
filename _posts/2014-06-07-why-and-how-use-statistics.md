@@ -4,7 +4,7 @@ permalink: /blog/why-and-how-use-statistics
 language: en
 category:
   - Columns
-modified: 2014-06-07T03:57:01Z
+last_modified_at: 2014-06-07T03:57:01Z
 ---
 
 _The World Cup 2014 is almost starting, and I will during the WC write some columns and make some analysis, and this is the first one - a pre-analysis._

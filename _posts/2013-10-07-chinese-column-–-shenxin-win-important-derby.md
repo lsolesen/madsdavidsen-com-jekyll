@@ -4,7 +4,7 @@ permalink: /blog/chinese-column-–-shenxin-win-important-derby
 language: en
 category:
   - Columns
-modified: 2013-10-07T04:59:16Z
+last_modified_at: 2013-10-07T04:59:16Z
 ---
 
 With a goal in the first minute, Shanghai Shenxin won the ‘Mini Shanghai-Derby’ against Shanghai East Asia and all three Shanghai-teams are now close to a new season in the CSL.

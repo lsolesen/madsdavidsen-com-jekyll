@@ -4,7 +4,7 @@ permalink: /blog/chinese-column-–-shenhua-derby-and-jiangsu-evergrande
 language: en
 category:
   - Columns
-modified: 2013-07-15T02:46:37Z
+last_modified_at: 2013-07-15T02:46:37Z
 ---
 
 Two new head coaches were on the bench Saturday evening at the Shanghai-Derby, where Shenhua was the best team and won 2-0. On Sunday the CSL topside Evergrande won for the first time in six years in Jiangsu after a really exiting match.

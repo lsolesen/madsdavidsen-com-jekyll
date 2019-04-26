@@ -4,7 +4,7 @@ permalink: /blog/interview-goal-about-chinese-football
 language: en
 category:
   - Media
-modified: 2015-02-01T15:01:23Z
+last_modified_at: 2015-02-01T15:01:23Z
 ---
 
 During the Asian Cup 2015, I was working for a Chinese media and the English website GOAL did an article with me regarding my view on Chinese football during my 3 years in China. You can read the article down below (in English):

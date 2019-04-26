@@ -4,7 +4,7 @@ permalink: /blog/chinese-column-new-chinese-style
 language: en
 category:
   - Columns
-modified: 2013-07-28T17:02:43Z
+last_modified_at: 2013-07-28T17:02:43Z
 ---
 
 The EAFF East Asian Cup is now over, and we can be very excited regarding the Chinese performance and a second place. The results were good, but even more important the mentality and the style look good for the future.

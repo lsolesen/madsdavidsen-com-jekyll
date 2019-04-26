@@ -4,7 +4,7 @@ permalink: /blog/velkommen-til-kina
 language: und
 category:
   - Daily life
-modified: 2013-04-06T19:11:17Z
+last_modified_at: 2013-04-06T19:11:17Z
 ---
 
 Inden min afrejse til Shanghai i Kina nedskrev jeg to dokumenter, der skulle forberede mig grundigt på den udfordring, jeg stod over for. Jeg opdelte udfordringen i to dele. ’Det antropologiske projekt’ og ’Det sportslige projekt’. Denne blog omhandler den første del, da selve fodboldtræningen først for alvor kører fra september, hvor den kinesiske sommerferie slutter.

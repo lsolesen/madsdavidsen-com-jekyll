@@ -4,7 +4,7 @@ permalink: /blog/leadership-importance-cultural-intelligence
 language: en
 category:
   - Columns
-modified: 2015-12-16T21:04:42Z
+last_modified_at: 2015-12-16T21:04:42Z
 ---
 
 A few weeks ago, I participated in an interesting webinar discussing cultural intelligence in sports. This is obviously an area, I've dealt with in my daily work in China 10.000km away from my birth country Denmark, but also 'far, far away' when we discuss cultural issues.

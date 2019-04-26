@@ -4,7 +4,7 @@ permalink: /blog/be-prima-donna
 language: en
 category:
   - Daily life
-modified: 2014-08-30T08:59:30Z
+last_modified_at: 2014-08-30T08:59:30Z
 ---
 
 I am a prima donna with a slightly touch of being introverted. I found out some years ago when I met the Danish researcher and Ph.D. lecturer, Helle Hedegaard Hein. She wrote a great book about being a prima donna and how these types of human beings often are misunderstood.

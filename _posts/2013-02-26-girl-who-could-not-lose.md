@@ -4,7 +4,7 @@ permalink: /blog/girl-who-could-not-lose
 language: en
 category:
   - Daily life
-modified: 2013-04-06T18:59:39Z
+last_modified_at: 2013-04-06T18:59:39Z
 ---
 
 Everyone with interest in Elite sport and talent development should watch this fantastic documentary about the Swedish athlete Carolina Klüft.

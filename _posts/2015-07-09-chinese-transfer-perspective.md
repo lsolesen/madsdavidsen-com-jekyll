@@ -4,7 +4,7 @@ permalink: /blog/chinese-transfer-perspective
 language: en
 category:
   - Columns
-modified: 2015-07-09T14:37:13Z
+last_modified_at: 2015-07-09T14:37:13Z
 ---
 
 A transfer window is among the most interesting periods in football, where the clubs can buy, sell or loan players, and it’s all about getting a stronger squad or is it?

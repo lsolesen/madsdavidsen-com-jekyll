@@ -4,7 +4,7 @@ permalink: /blog/world-cup-2014-tendencies
 language: en
 category:
   - Columns
-modified: 2014-07-14T07:25:40Z
+last_modified_at: 2014-07-14T07:25:40Z
 ---
 
 The biggest and most interesting football event is now over and it’s time to analyze and look back at the tournament and the tactical related tendencies we might have seen and can track in the years to come.

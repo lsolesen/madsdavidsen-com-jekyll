@@ -4,7 +4,7 @@ permalink: /blog/afc-2015-china-saudi-arabia-analysis
 language: en
 category:
   - Columns
-modified: 2015-01-14T16:20:19Z
+last_modified_at: 2015-01-14T16:20:19Z
 ---
 
 We have now seen all the teams in action at the Asian Cup 2015 and so far the favorites has done well and secured an important win in the first game of the group stage.

@@ -4,7 +4,7 @@ permalink: /blog/video-analysis-asian-champions-league-final
 language: en
 category:
   - Media
-modified: 2013-10-30T02:50:17Z
+last_modified_at: 2013-10-30T02:50:17Z
 ---
 
 In these analysis, I firstly preview the two teams in the Asian Champions League Final 2013 and analyze the first leg of the game between the teams - FC Seoul (KOR) and Guangzhou Evergrande (CHI):

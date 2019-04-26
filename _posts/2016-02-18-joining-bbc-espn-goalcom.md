@@ -4,7 +4,7 @@ permalink: /blog/joining-bbc-espn-goalcom
 language: en
 category:
   - Media
-modified: 2016-02-18T02:48:25Z
+last_modified_at: 2016-02-18T02:48:25Z
 ---
 
 The January 2016 transfer window in China has reached the headlines all over the World of football and the international media have started to make an interest in China searching for insights and the true story of the development of Chinese football.

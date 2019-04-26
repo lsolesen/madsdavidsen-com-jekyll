@@ -4,7 +4,7 @@ permalink: /blog/afc-2015-china-uzbekistan-analysis
 language: en
 category:
   - Columns
-modified: 2015-01-14T16:23:53Z
+last_modified_at: 2015-01-14T16:23:53Z
 ---
 
 First of all; what a night for Chinese football! China is for the first time in 10 years ready for the quarter finals in the Asian Cup. And this is after just two of the three rounds in the group stage. 6 points and massive congratulations to the players, head coach Alain Perrin and his coaching staff.

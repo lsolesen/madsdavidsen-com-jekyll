@@ -4,7 +4,7 @@ permalink: /blog/chinese-column-shandong-and-guizhou-renhe
 language: en
 category:
   - Columns
-modified: 2013-04-15T15:41:41Z
+last_modified_at: 2013-04-15T15:41:41Z
 ---
 
 This week of CSL showed some interesting results. Very impressive that Shenxin got a point against Beijing Gouan, who played a fantastic game last week against Jiangsu. Probably the best performance I have seen in China so far. And Jiangsu – by the way - seems hurt this season – not as strong in the offensive part and without the same faith and determination in their play. And don’t underestimate that now all opponents know their style, which makes it more difficult for Jiangsu to surprise and cover their tactic.

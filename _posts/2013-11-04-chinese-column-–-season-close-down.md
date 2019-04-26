@@ -4,7 +4,7 @@ permalink: /blog/chinese-column-–-season-close-down
 language: en
 category:
   - Columns
-modified: 2013-11-04T04:42:19Z
+last_modified_at: 2013-11-04T04:42:19Z
 ---
 
 The Chinese Super League (CSL) 2013 has now ended after an interesting season where Guangzhou Evergrande as expected became the champions while Shanghai East Asia were the surprise of the year as the promoted team lifting the quality of football in the league.

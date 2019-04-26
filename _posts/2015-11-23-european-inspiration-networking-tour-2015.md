@@ -4,7 +4,7 @@ permalink: /blog/european-inspiration-networking-tour-2015
 language: en
 category:
   - Daily life
-modified: 2015-11-23T13:18:46Z
+last_modified_at: 2015-11-23T13:18:46Z
 ---
 
 As we speak; I'm on my yearly inspiration, networking & scouting trip in Europe. This is a very important part of my development, so I always make sure to go abroad to visit clubs, network and to keep myself updated on players and tactical development.

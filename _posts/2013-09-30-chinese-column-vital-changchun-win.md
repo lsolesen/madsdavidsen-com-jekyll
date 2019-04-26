@@ -4,7 +4,7 @@ permalink: /blog/chinese-column-vital-changchun-win
 language: en
 category:
   - Columns
-modified: 2013-09-30T04:17:15Z
+last_modified_at: 2013-09-30T04:17:15Z
 ---
 
 This week, I saw three of the teams involved in the relegation battle live, and we can conclude that Qingdao is looking to join Wuhan as the team going down to league for one next season.

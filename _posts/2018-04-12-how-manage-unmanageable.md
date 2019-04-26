@@ -4,7 +4,7 @@ permalink: /blog/how-manage-unmanageable
 language: en
 category:
   - Columns
-modified: 2018-04-12T07:50:01Z
+last_modified_at: 2018-04-12T07:50:01Z
 ---
 
 Over the recent years, I have been hired by business groups, companies and for different events to do a speech on my 6 years operating in China. Not specifically about football necessarily, but on leadership and management in a different culture and country.

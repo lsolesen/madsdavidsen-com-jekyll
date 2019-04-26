@@ -4,7 +4,7 @@ permalink: /blog/season-analysis-when-league-table-lies
 language: en
 category:
   - Columns
-modified: 2015-06-02T08:40:13Z
+last_modified_at: 2015-06-02T08:40:13Z
 ---
 
 Football is all about winning or? Not if you wish to continue winning  

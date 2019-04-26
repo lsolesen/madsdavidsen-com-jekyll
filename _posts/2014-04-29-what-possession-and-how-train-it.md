@@ -4,7 +4,7 @@ permalink: /blog/what-possession-and-how-train-it
 language: en
 category:
   - Columns
-modified: 2014-04-29T05:57:14Z
+last_modified_at: 2014-04-29T05:57:14Z
 ---
 
 Last week, I had some very interesting days in Nyon at my UEFA PRO coaching course with the Danish, Croatian, Belarus and Romanian delegation as well. We had some interesting lessons and discussions, and now it's time for reflection to structure the notes, knowledge and to make sure that I learn to use the inspiration and knowledge in my busy daily run.

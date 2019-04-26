@@ -4,7 +4,7 @@ permalink: /blog/chinese-column-–-east-asia-young-guns-and-qingdao-victory
 language: en
 category:
   - Columns
-modified: 2013-10-14T05:23:44Z
+last_modified_at: 2013-10-14T05:23:44Z
 ---
 
 Only two games this weekend in the CSL due to the national games, so we got to see a few of the talents of Shanghai East Asia and Qingdao won 4-1, so now they are above the relegation zone again.

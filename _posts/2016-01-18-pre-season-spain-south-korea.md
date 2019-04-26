@@ -4,7 +4,7 @@ permalink: /blog/pre-season-spain-south-korea
 language: en
 category:
   - Daily life
-modified: 2016-01-18T13:48:30Z
+last_modified_at: 2016-01-18T13:48:30Z
 ---
 
 The Pre-Season for the Chinese Super League 2016 has begun, and I've just been 10 days with the 1. team in Spain - at Gran Canary Island. This period is mostly about getting back in game shape and finding the sprint endurance to play 90 minutes at a high level again.

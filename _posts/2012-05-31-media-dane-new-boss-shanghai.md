@@ -4,7 +4,7 @@ permalink: /blog/media-dane-new-boss-shanghai
 language: und
 category:
   - Media
-modified: 2013-04-07T03:29:19Z
+last_modified_at: 2013-04-07T03:29:19Z
 ---
 
 A collection of stories regarding my goodbye to Danish football and hello to China and Ebbe Sand Soccer Academy.

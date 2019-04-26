@@ -4,7 +4,7 @@ permalink: /blog/euro-2016-time-find-new-tendencies
 language: en
 category:
   - Daily life
-modified: 2016-06-06T15:47:46Z
+last_modified_at: 2016-06-06T15:47:46Z
 ---
 
 This week is the official kick off & start of the EURO 2016 in France. I'm as always looking forward to a lot of good football and interesting games coming up to add another dimension to the hot Chinese summer ongoing as we speak.

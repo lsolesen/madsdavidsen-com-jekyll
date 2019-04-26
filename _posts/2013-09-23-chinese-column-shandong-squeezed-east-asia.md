@@ -4,7 +4,7 @@ permalink: /blog/chinese-column-shandong-squeezed-east-asia
 language: en
 category:
   - Columns
-modified: 2013-09-23T10:00:42Z
+last_modified_at: 2013-09-23T10:00:42Z
 ---
 
 The team of Radomir Antic is far the best team in China to work off the ball and to pressure an opponent in an organized way.

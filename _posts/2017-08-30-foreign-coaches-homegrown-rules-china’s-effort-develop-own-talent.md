@@ -4,7 +4,7 @@ permalink: /blog/foreign-coaches-homegrown-rules-china’s-effort-develop-own-ta
 language: en
 category:
   - Media
-modified: 2017-08-30T03:18:14Z
+last_modified_at: 2017-08-30T03:18:14Z
 ---
 
 I had a talk with _Planetfootball_ on youth development and the future focus for Chinese football to reach an international competitive level.

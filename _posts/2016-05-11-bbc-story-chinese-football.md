@@ -4,7 +4,7 @@ permalink: /blog/bbc-story-chinese-football
 language: en
 category:
   - Media
-modified: 2016-05-11T05:46:44Z
+last_modified_at: 2016-05-11T05:46:44Z
 ---
 
 A few weeks back, I had a visit from the English BBC World News making a story about the development in Chinese football. They visited me and my Shanghai SIPG F.C. Development Squad at the training ground to get an insight-story on the progress we are making.

@@ -4,7 +4,7 @@ permalink: /blog/article-espn-about-sipg-way
 language: en
 category:
   - Media
-modified: 2016-08-18T07:58:12Z
+last_modified_at: 2016-08-18T07:58:12Z
 ---
 
 In the beginning of 2016, I helped our club create 'THE SIPG WAY' - a talent development strategy, so we all work in the same direction and focus on the player from U23 and down and **only** the development of the players.

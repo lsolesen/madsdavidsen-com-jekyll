@@ -4,7 +4,7 @@ permalink: /blog/chinese-column-–-beijing-still-claiming-acl-spot
 language: en
 category:
   - Columns
-modified: 2013-10-21T03:37:07Z
+last_modified_at: 2013-10-21T03:37:07Z
 ---
 
 The crucial third position in the league is still open, while 4 teams are fighting to avoid relegation together with Wuhan. Very exciting last two rounds are coming up in China.

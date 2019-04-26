@@ -4,7 +4,7 @@ permalink: /blog/wef-danes-open-football-academy-shanghai
 language: en
 category:
   - Media
-modified: 2013-04-07T03:07:18Z
+last_modified_at: 2013-04-07T03:07:18Z
 ---
 
 The famous website writting about Chinese football, wildeastfootball.net has done an interview with me, where I tell about our academy, aims and philosophy.

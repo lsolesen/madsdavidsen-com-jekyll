@@ -4,7 +4,7 @@ permalink: /blog/asian-cup-2015-preview
 language: en
 category:
   - Columns
-modified: 2015-01-08T09:13:16Z
+last_modified_at: 2015-01-08T09:13:16Z
 ---
 
 The AFC Asian Cup this January is obviously of massive interest in all of Asia. And after a disappointing World Cup 2014 for all of the Asian teams, we will now see which country is the best in Asia - compared against each other, and that is always a fascinating tournament-model.

@@ -4,7 +4,7 @@ permalink: /blog/chinese-column-–-focus-jiangsu-sainty
 language: und
 category:
   - Columns
-modified: 2013-07-02T05:44:58Z
+last_modified_at: 2013-07-02T05:44:58Z
 ---
 
 Last season Jiangsu Sainty was the big surprise in the CSL with an impressive second place and a spot in this year Asian Champions League as well. This season has not been as good for the team from Nanjing, and Saturday night, I did an analysis on the team to find out how they play.

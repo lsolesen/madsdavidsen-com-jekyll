@@ -4,7 +4,7 @@ permalink: /blog/chinese-column-hangzhou-and-zhang-linpeng
 language: en
 category:
   - Columns
-modified: 2013-04-26T08:44:55Z
+last_modified_at: 2013-04-26T08:44:55Z
 ---
 
 The Japanese revolution in Hangzhou has had a disappointing start in the CSL season, and Okada needs to work on the game plan and especially offensive organization if the team shall improve their results.

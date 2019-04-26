@@ -4,7 +4,7 @@ permalink: /blog/afc-2015-china-australia-analysis
 language: en
 category:
   - Columns
-modified: 2015-01-22T16:21:16Z
+last_modified_at: 2015-01-22T16:21:16Z
 ---
 
 Unfortunately, China is now out of the Asian Cup 2015 after a 0-2 defeat against Australia. The host nation scored after a set piece and had the individual quality in ‘big-game-player’ Tim Cahill, who made the difference this night in Brisbane with two great goals.

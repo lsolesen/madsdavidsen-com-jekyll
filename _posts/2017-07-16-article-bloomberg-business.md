@@ -4,7 +4,7 @@ permalink: /blog/article-bloomberg-business
 language: en
 category:
   - Media
-modified: 2017-07-16T04:35:34Z
+last_modified_at: 2017-07-16T04:35:34Z
 ---
 
 In the recent months during my traveling, I had some interesting meetings - among them in Beijing with the journalist Tariq Panja from Bloomberg Media (American).

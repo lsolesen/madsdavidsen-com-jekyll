@@ -4,7 +4,7 @@ permalink: /blog/wc-round-2-3-dont-keep-ball
 language: en
 category:
   - Columns
-modified: 2014-07-01T17:37:12Z
+last_modified_at: 2014-07-01T17:37:12Z
 ---
 
 We are now in the final 16 of the World Cup and my analysis and stats had a huge step up this past week as I went for my UEFA Pro license course in Copenhagen and had the pleasure to discuss and analyze football with good coaches and teachers. And I have some interesting stats to look at from round 2 and 3.

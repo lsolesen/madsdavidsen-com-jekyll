@@ -4,7 +4,7 @@ permalink: /blog/official-announcement-davidsen-signs-chinese-club
 language: en
 category:
   - Daily life
-modified: 2014-01-19T03:39:29Z
+last_modified_at: 2014-01-19T03:39:29Z
 ---
 
 I'm very happy to announce that I now officially have signed a 1-year contract with the professional Chinese club Guangzhou R&F F.C. The contract was mutual agreed back in December, but now officially signed and done.

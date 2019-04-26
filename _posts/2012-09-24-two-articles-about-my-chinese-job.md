@@ -4,7 +4,7 @@ permalink: /blog/two-articles-about-my-chinese-job
 language: en
 category:
   - Media
-modified: 2013-04-07T03:14:39Z
+last_modified_at: 2013-04-07T03:14:39Z
 ---
 
 In these two articles myself and Ebbe Sand talks about our Academy and why we are trying to build up the football in China.

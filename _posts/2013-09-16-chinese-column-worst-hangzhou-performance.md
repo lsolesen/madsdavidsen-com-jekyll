@@ -4,7 +4,7 @@ permalink: /blog/chinese-column-worst-hangzhou-performance
 language: en
 category:
   - Columns
-modified: 2013-09-16T13:17:25Z
+last_modified_at: 2013-09-16T13:17:25Z
 ---
 
 Sunday evening at Shanghai Stadium was a nightmare for the Hangzhou Greentown fans. My ticket gave me a seat among the Hangzhou fans, so I could really feel and see their desperation during the defeat to Shanghai East Asia. The Japanese coach Okada seems to have changed his philosophy.

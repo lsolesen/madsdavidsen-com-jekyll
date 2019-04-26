@@ -4,7 +4,7 @@ permalink: /blog/chinese-column-beijing-qingdao-and-wu-lei
 language: en
 category:
   - Columns
-modified: 2013-04-09T16:21:14Z
+last_modified_at: 2013-04-09T16:21:14Z
 ---
 
 Another interesting week of CSL is over. Shandong is still ahead with maximum points and I look forward to analyze them live next Saturday at Hongkou Stadium in Shanghai. Meanwhile I will start with Beijing Guoan, who got 10 points after 4 rounds.

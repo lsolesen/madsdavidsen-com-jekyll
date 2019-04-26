@@ -4,7 +4,7 @@ permalink: /blog/chinese-players-can-benefit-danish-football
 language: en
 category:
   - Media
-modified: 2013-04-07T03:08:22Z
+last_modified_at: 2013-04-07T03:08:22Z
 ---
 
 A story in Danish football magazine Tipsbladet, where I say that Danish clubs should consider signing a Chinese player and then I give feed back on our Chinese player being on trial in Denmark.

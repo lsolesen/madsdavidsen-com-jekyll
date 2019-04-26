@@ -4,7 +4,7 @@ permalink: /blog/inspiration-trip-2016
 language: en
 category:
   - Daily life
-modified: 2016-11-08T23:15:08Z
+last_modified_at: 2016-11-08T23:15:08Z
 ---
 
 As we speak; I'm in London attending the LEADERS Sport Performance Summit. It's a 2-day course for CEO's, leaders and coaches and as always very inspiring + many interesting people here to add to your network.

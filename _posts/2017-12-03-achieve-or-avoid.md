@@ -4,7 +4,7 @@ permalink: /blog/achieve-or-avoid
 language: en
 category:
   - Columns
-modified: 2017-12-03T06:41:53Z
+last_modified_at: 2017-12-03T06:41:53Z
 ---
 
 A common saying is; there are no right or wrong in football. Another saying is: the winner is always right.

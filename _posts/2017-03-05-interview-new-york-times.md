@@ -4,7 +4,7 @@ permalink: /blog/interview-new-york-times
 language: en
 category:
   - Media
-modified: 2017-03-05T06:20:26Z
+last_modified_at: 2017-03-05T06:20:26Z
 ---
 
 The Chinese Super League 2017-season is starting this weekend and the entire World of football is now following the development in China.

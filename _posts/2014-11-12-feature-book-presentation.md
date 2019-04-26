@@ -4,7 +4,7 @@ permalink: /blog/feature-book-presentation
 language: en
 category:
   - Daily life
-modified: 2015-01-01T16:20:58Z
+last_modified_at: 2015-01-01T16:20:58Z
 ---
 
 I have the past years done several presentations / lectures and had some very good feed back, so therefore I have now made an official feature where you or your company, club or organization can book a presentation.

@@ -4,7 +4,7 @@ permalink: /blog/training-camp-chinese-season-coming
 language: en
 category:
   - Daily life
-modified: 2014-02-16T08:52:13Z
+last_modified_at: 2014-02-16T08:52:13Z
 ---
 
 As we speak, I'm in Turkey at our training camp 2014 preseason tour before the start of the Chinese Super League (CSL) 2014. We are here for two weeks to focus and prepare for the coming season, where we play 14 games before the World Cup in Brazil and then 16 games after the World Cup ending in November.

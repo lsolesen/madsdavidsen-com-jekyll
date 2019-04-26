@@ -4,7 +4,7 @@ permalink: /blog/chinese-player-trial-denmark
 language: en
 category:
   - Media
-modified: 2013-04-07T02:42:38Z
+last_modified_at: 2013-04-07T02:42:38Z
 ---
 
 In January 2013 I will bring one of my most talented players for trial in Denmark. This is a big step and a part of the academy philosphy to higher the standards in Chinese football and get kids a chance to go to Europe if the level is good enough. We have the connections.

@@ -4,7 +4,7 @@ permalink: /blog/visiting-singapore-networking-football
 language: en
 category:
   - Daily life
-modified: 2015-09-30T03:28:35Z
+last_modified_at: 2015-09-30T03:28:35Z
 ---
 
 I'm in Singapore these days as we have a few days off in China, so I wanted to catch up with some network, arrange a few meetings and see matches here in Singapore. By the way a fantastic nice country and place to live!

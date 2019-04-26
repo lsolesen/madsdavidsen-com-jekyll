@@ -4,7 +4,7 @@ permalink: /blog/chinese-column-–-eaff-east-asian-cup
 language: en
 category:
   - Columns
-modified: 2013-07-22T06:25:17Z
+last_modified_at: 2013-07-22T06:25:17Z
 ---
 
 The CSL is taking a short summer break and instead it’s time for the national teams to perform. This and next week, I will do analysis on the EAFF games including the national teams from South Korea, Australia, Japan, and China.

@@ -4,7 +4,7 @@ permalink: /blog/chinese-column-shandong-passed-test
 language: en
 category:
   - Columns
-modified: 2013-06-16T05:32:43Z
+last_modified_at: 2013-06-16T05:32:43Z
 ---
 
 A very intense match between number one from Guangzhou Evergrande and number two from Shandong Luneng was played Saturday night in the south of China. Evergrande is still far the best team in China, but Shandong played very clever and got a point.

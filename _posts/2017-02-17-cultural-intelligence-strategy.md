@@ -4,7 +4,7 @@ permalink: /blog/cultural-intelligence-strategy
 language: en
 category:
   - Media
-modified: 2017-02-17T08:39:33Z
+last_modified_at: 2017-02-17T08:39:33Z
 ---
 
 In general, I believe you need a strategy for most things in life to control, evaluate, and succeed whatever you are doing or handling.

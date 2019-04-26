@@ -4,7 +4,7 @@ permalink: /blog/danish-coach-ambitions
 language: en
 category:
   - Media
-modified: 2013-04-07T04:12:54Z
+last_modified_at: 2013-04-07T04:12:54Z
 ---
 
 I am interviewed about my job in Brondby IF and talks about the future as well.

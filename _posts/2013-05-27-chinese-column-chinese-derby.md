@@ -4,7 +4,7 @@ permalink: /blog/chinese-column-chinese-derby
 language: en
 category:
   - Columns
-modified: 2013-05-27T15:08:47Z
+last_modified_at: 2013-05-27T15:08:47Z
 ---
 
 Beijing played well in the first half – Shenhua is still not playing very well, but the team just keeps on getting their points and Sunday evening they won the China Derby.

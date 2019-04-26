@@ -5,7 +5,7 @@ language: en
 category:
   - Columns
   - Media
-modified: 2017-07-24T15:53:51Z
+last_modified_at: 2017-07-24T15:53:51Z
 ---
 
 After visiting more than 20 top clubs in the past four years and in general developing my own strategy, philosophy & methodology in the past 10 years; I've decided to write a piece on the importance of a strategy if you as a club / coach wish to succeed not once - but every season.

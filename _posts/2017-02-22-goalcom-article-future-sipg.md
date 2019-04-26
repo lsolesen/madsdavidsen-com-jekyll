@@ -4,7 +4,7 @@ permalink: /blog/goalcom-article-future-sipg
 language: en
 category:
   - Media
-modified: 2017-02-22T14:28:52Z
+last_modified_at: 2017-02-22T14:28:52Z
 ---
 
 Working abroad in a fast moving country like China has been and still is a fantastic experience. A few weeks back **goal.com** visited me for an interview also about the future of my current club, Shanghai SIPG F.C.

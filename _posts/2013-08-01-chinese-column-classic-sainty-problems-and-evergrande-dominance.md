@@ -4,7 +4,7 @@ permalink: /blog/chinese-column-classic-sainty-problems-and-evergrande-dominance
 language: en
 category:
   - Columns
-modified: 2013-08-01T16:03:51Z
+last_modified_at: 2013-08-01T16:03:51Z
 ---
 
 The CSL was back Wednesday and Thursday after two weeks with national games, and Evergrande continued their dominance in the top of the league, while Jiangsu once more showed how vulnerable a team they are.

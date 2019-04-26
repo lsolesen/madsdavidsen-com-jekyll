@@ -4,7 +4,7 @@ permalink: /blog/chinese-column-–-important-greentown-victory
 language: en
 category:
   - Columns
-modified: 2013-06-24T05:05:04Z
+last_modified_at: 2013-06-24T05:05:04Z
 ---
 
 The best CSL-game, I saw this past weekend was Hangzhou Greentown against Beijing Gouan. A very intense, well-played and dramatic game, where Hangzhou won 2-1 and the home side was quite lucky that the Beijing strikers didn’t have a clinical day and of course the keeper number 22 Yang Zhi made a giant mistake.

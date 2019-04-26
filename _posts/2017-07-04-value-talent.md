@@ -4,7 +4,7 @@ permalink: /blog/value-talent
 language: en
 category:
   - Columns
-modified: 2017-07-04T10:34:53Z
+last_modified_at: 2017-07-04T10:34:53Z
 ---
 
 _A chapter from my book (in cooperation with Helle Hedegaard Hein) "Når talent forpligter" (Great talent requires great leadership):_

@@ -4,7 +4,7 @@ permalink: /blog/follow-these-players-2015
 language: en
 category:
   - Media
-modified: 2015-01-01T16:17:25Z
+last_modified_at: 2015-01-01T16:17:25Z
 ---
 
 The Danish newspaper BT asked me to point out a Top 10 of interesting players to follow in 2015.

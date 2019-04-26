@@ -4,7 +4,7 @@ permalink: /blog/wc-round-1-key-penalty-box
 language: en
 category:
   - Columns
-modified: 2014-06-19T05:01:47Z
+last_modified_at: 2014-06-19T05:01:47Z
 ---
 
 The World Cup has finished the first round of the group stage, and I’m excited about the offensive minded concepts and the fact we are talking about the offensive players and goals.

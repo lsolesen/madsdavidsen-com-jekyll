@@ -4,7 +4,7 @@ permalink: /blog/manage-other-aspects-4-2-3-1
 language: en
 category:
   - Columns
-modified: 2013-11-27T08:53:35Z
+last_modified_at: 2013-11-27T08:53:35Z
 ---
 
 I have the past 1½ year lived in Shanghai, China as Technical Director of the Ebbe Sand Academy – the first international elite academy in the big Chinese city with 23 million people and Match Analyzer and Scout under Sven Göran Eriksson at Chinese club Guangzhou R&F. It has been a fantastic journey and now it’s time to analyze, reflect, and tell about my time in China.

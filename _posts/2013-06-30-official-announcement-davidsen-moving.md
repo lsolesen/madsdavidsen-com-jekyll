@@ -4,7 +4,7 @@ permalink: /blog/official-announcement-davidsen-moving
 language: en
 category:
   - Daily life
-modified: 2013-07-16T03:34:35Z
+last_modified_at: 2013-07-16T03:34:35Z
 ---
 
 - It has been a very difficult decision, because I really like my job and life in China, but I have decided not to extend my contract with Ebbe Sand Soccer Academy Shanghai, which will expire in a few weeks. I want to thank Mr. Ebbe Sand and the rest of the ESSA team for a great cooperation, team work, and a professional attitude during the past year. It has been a privilege to be a part of this exciting project.

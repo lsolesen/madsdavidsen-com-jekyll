@@ -4,7 +4,7 @@ permalink: /blog/danish-media-regarding-our-chinese-academy
 language: en
 category:
   - Media
-modified: 2013-04-07T03:00:14Z
+last_modified_at: 2013-04-07T03:00:14Z
 ---
 
 The Danish media has really been very interested in our Chinese player, who is training with famous side Brondby IF in Denmark right now. We have given a lot of interviews and down below is the links to some of the articles. Most of them in Danish of course.

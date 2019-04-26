@@ -4,7 +4,7 @@ permalink: /blog/afc-2015-china-analysis-australia-preview
 language: en
 category:
   - Columns
-modified: 2015-01-18T17:20:15Z
+last_modified_at: 2015-01-18T17:20:15Z
 ---
 
 **China analysis vs North Korea**  

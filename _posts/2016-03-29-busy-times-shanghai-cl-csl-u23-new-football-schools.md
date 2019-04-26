@@ -4,7 +4,7 @@ permalink: /blog/busy-times-shanghai-cl-csl-u23-new-football-schools
 language: en
 category:
   - Daily life
-modified: 2016-03-29T16:08:08Z
+last_modified_at: 2016-03-29T16:08:08Z
 ---
 
 It's been a while since I've found time to write in here, but been busy lately.

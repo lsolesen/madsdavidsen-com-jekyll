@@ -4,7 +4,7 @@ permalink: /blog/3-years-anniversary-time-reflect
 language: en
 category:
   - Daily life
-modified: 2017-12-17T09:31:16Z
+last_modified_at: 2017-12-17T09:31:16Z
 ---
 
 By coincidence through a LinkedIn-update, I realized it's my '3 years anniversary' these days at Shanghai SIPG F.C. In football - that's like a lifetime period compared to other businesses (!).

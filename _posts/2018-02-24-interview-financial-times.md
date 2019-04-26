@@ -4,7 +4,7 @@ permalink: /blog/interview-financial-times
 language: en
 category:
   - Media
-modified: 2018-02-24T09:38:49Z
+last_modified_at: 2018-02-24T09:38:49Z
 ---
 
 The 2018-football season in China are ahead of us and this past week, I did an interview with _The Financial Times_ to discuss the current status and future prospect of Chinese football.

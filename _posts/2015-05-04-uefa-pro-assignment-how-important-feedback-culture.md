@@ -4,7 +4,7 @@ permalink: /blog/uefa-pro-assignment-how-important-feedback-culture
 language: en
 category:
   - Columns
-modified: 2015-05-04T08:54:15Z
+last_modified_at: 2015-05-04T08:54:15Z
 ---
 
 I have just finished my UEFA PRO coaching license major assignment. A big step towards getting my license later this year and I'm quite satisfied with the assignment. Due to (c) and a plan to do more studies in this field, I can't upload the entire assignment as we speak, but down below is a short brief of from the executive summary:

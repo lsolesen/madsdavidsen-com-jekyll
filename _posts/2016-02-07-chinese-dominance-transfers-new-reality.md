@@ -4,7 +4,7 @@ permalink: /blog/chinese-dominance-transfers-new-reality
 language: en
 category:
   - Media
-modified: 2016-02-07T15:23:08Z
+last_modified_at: 2016-02-07T15:23:08Z
 ---
 
 The first month of the new year is always related to transfer news from all over the World as the regulated transfer window officially opens. But this January has been unusual as China has dominated the transfer market with massive signings taking top players from Europe and South America.

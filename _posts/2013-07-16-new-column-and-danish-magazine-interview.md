@@ -4,7 +4,7 @@ permalink: /blog/new-column-and-danish-magazine-interview
 language: en
 category:
   - Media
-modified: 2013-07-16T03:28:28Z
+last_modified_at: 2013-07-16T03:28:28Z
 ---
 
 This week my columns are now online at the biggest English site regarding Chinese football - Wildeastfootball.net.

@@ -4,7 +4,7 @@ permalink: /blog/there-any-substance-china’s-football-revolution
 language: en
 category:
   - Media
-modified: 2017-08-29T02:44:18Z
+last_modified_at: 2017-08-29T02:44:18Z
 ---
 
 The journalist _Michael Da Silva_ visited me recently in Shanghai as part of his trip in China to explore the work and progression of Chinese football.

@@ -4,7 +4,7 @@ permalink: /blog/article-regarding-talents-brondby-if
 language: und
 category:
   - Media
-modified: 2013-04-07T03:23:26Z
+last_modified_at: 2013-04-07T03:23:26Z
 ---
 
 In this article I am asked regarding some of the U19 talents, I train every day at Danish side Brondby IF.

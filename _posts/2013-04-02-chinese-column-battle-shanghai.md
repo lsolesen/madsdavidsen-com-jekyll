@@ -4,7 +4,7 @@ permalink: /blog/chinese-column-battle-shanghai
 language: en
 category:
   - Columns
-modified: 2013-04-07T02:31:37Z
+last_modified_at: 2013-04-07T02:31:37Z
 ---
 
 **The Shanghai-Derby and Guangzhou dominance**

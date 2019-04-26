@@ -4,7 +4,7 @@ permalink: /blog/2-year-contract-signed-shanghai-sipg
 language: en
 category:
   - Media
-modified: 2014-11-29T01:45:52Z
+last_modified_at: 2014-11-29T01:45:52Z
 ---
 
 I'm very proud and happy to annouce that my future now is in place. I have signed a 2-year deal with the upcoming club in China, Shanghai SIPG. I will continue working for Sven Goran Eriksson as he will be the head coach of the new club, so it's a big honour for me to follow Sven once more after our success in Guangzhou R&F.

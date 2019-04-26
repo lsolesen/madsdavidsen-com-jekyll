@@ -4,7 +4,7 @@ permalink: /blog/interviews-club-strategy-challenges-china
 language: en
 category:
   - Media
-modified: 2018-02-04T10:41:03Z
+last_modified_at: 2018-02-04T10:41:03Z
 ---
 
 I did a couple of interviews this past weeks. One regarding our club strategy and focus on youth development and one with a Danish radio show called "Kina-snak" (China-talk) on my nearly six years living and working in China as well as operating in a different environment and culture.

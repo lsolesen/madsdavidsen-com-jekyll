@@ -4,7 +4,7 @@ permalink: /blog/chinese-column-biggest-star-china
 language: en
 category:
   - Columns
-modified: 2013-05-24T09:48:15Z
+last_modified_at: 2013-05-24T09:48:15Z
 ---
 
 **Elkeson – Guangzhou Evergrande – Brazil - Striker:**

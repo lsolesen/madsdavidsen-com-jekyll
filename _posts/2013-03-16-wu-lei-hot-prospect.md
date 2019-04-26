@@ -4,7 +4,7 @@ permalink: /blog/wu-lei-hot-prospect
 language: en
 category:
   - Daily life
-modified: 2013-04-06T18:58:42Z
+last_modified_at: 2013-04-06T18:58:42Z
 ---
 
 In this CSL season I have watched 4 LIVE games + seen almost every game at my tv or at my computer. I am building up a shortlist of interesting players and talents, so I in time will have a solid database and knowledge about the teams, players, and development out here.

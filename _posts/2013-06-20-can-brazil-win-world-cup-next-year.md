@@ -4,7 +4,7 @@ permalink: /blog/can-brazil-win-world-cup-next-year
 language: en
 category:
   - Columns
-modified: 2013-06-20T14:44:41Z
+last_modified_at: 2013-06-20T14:44:41Z
 ---
 
 I will let the football experts make that judgment and instead analyze the Brazilian performances so far in the Confederations Cup 2013.

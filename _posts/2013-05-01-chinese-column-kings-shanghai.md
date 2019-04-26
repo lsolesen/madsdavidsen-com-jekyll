@@ -4,7 +4,7 @@ permalink: /blog/chinese-column-kings-shanghai
 language: en
 category:
   - Columns
-modified: 2013-05-05T16:00:31Z
+last_modified_at: 2013-05-05T16:00:31Z
 ---
 
 This weekend had two big Derby’s in China, but my main focus is on the Shanghai-Derby as Guangzhou Evergrande was at least on level above Guangzhou R&F and therefore the Shanghai-Derby was more interesting, equal, and intense to follow.

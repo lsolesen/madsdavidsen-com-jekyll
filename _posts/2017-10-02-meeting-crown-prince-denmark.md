@@ -4,7 +4,7 @@ permalink: /blog/meeting-crown-prince-denmark
 language: en
 category:
   - Daily life
-modified: 2017-10-02T02:59:14Z
+last_modified_at: 2017-10-02T02:59:14Z
 ---
 
 This past week, I was invited to the south of China by the Danish embassy in China as of the official 'Denmark Day' took place on September 26th.

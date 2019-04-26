@@ -4,7 +4,7 @@ permalink: /blog/head-coach-legends-team
 language: en
 category:
   - Daily life
-modified: 2013-11-13T06:07:21Z
+last_modified_at: 2013-11-13T06:07:21Z
 ---
 
 On Thursday, November 14th, I will attend the Tour of the Football Legends in China as the official head coach of the team. I'm flattered to be involved in this project as I know how much these famous legends can promote Chinese football in terms of creating interest and make the sport even more popular. So of course I will like to support this project arranged by HUPU to help develop the football in China and try to encourage small childred to play football.

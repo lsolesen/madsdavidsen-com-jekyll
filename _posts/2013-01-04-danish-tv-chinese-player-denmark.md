@@ -4,7 +4,7 @@ permalink: /blog/danish-tv-chinese-player-denmark
 language: en
 category:
   - Media
-modified: 2013-04-07T03:05:46Z
+last_modified_at: 2013-04-07T03:05:46Z
 ---
 
 Our Chinese players trial in Denmark has been a success. The player Tycho has performed very well and showed that he has a great potential if he keeps on developing his skills. Furthermore the Danish media liked the story, so yesterday we were in two national Danish tv news.

@@ -5,7 +5,7 @@ language: en
 category:
   - Daily life
   - Media
-modified: 2017-09-20T02:59:49Z
+last_modified_at: 2017-09-20T02:59:49Z
 ---
 
 A few month ago, I had a visit from _Rabona Magazine_ and the journalist Michael Da Silva, who was producing a short documentary on Chinese football ahead of our game vs. Guangzhou Evergrande.

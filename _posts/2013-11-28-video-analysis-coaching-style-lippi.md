@@ -4,7 +4,7 @@ permalink: /blog/video-analysis-coaching-style-lippi
 language: en
 category:
   - Media
-modified: 2013-11-28T08:16:56Z
+last_modified_at: 2013-11-28T08:16:56Z
 ---
 
 Italian coach Marcello Lippi has been the big hero this season in China winning the Championship for the second time in a row and winning the first ever Asian Champions League title for a Chinese club with Guangzhou Evergrande.

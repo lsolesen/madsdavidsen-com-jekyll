@@ -4,7 +4,7 @@ permalink: /blog/chinese-column-some-positive-chinese-aspects
 language: en
 category:
   - Columns
-modified: 2013-06-13T06:50:16Z
+last_modified_at: 2013-06-13T06:50:16Z
 ---
 
 The Chinese national team lost last Thursday 1-2 against Uzbekistan, but I will leave this game behind and instead focus on the game this past Tuesday against Holland.

@@ -4,7 +4,7 @@ permalink: /blog/chinese-column-–-batista-evergrande-and-zhu-jiong
 language: en
 category:
   - Columns
-modified: 2013-07-08T11:29:03Z
+last_modified_at: 2013-07-08T11:29:03Z
 ---
 
 A very turbulent week for Shanghai Shenhua with a new head coach coming in, and also the Argentinian assistant coach and physical coach left the club together with Sergio Batista. Luckily the team got one point after a bad game on Saturday in Tianjin, but dark shadows are still hanging over the club.

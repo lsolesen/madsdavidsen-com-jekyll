@@ -4,7 +4,7 @@ permalink: /blog/blog-chinese-powerhouse
 language: en
 category:
   - Columns
-modified: 2016-05-06T14:51:55Z
+last_modified_at: 2016-05-06T14:51:55Z
 ---
 
 I've worked together with the 'Player Development Project' for a while and recently they asked me to do a piece on my 4 years working in Chinese football looking into the future for The Middle Kingdom.

@@ -4,7 +4,7 @@ permalink: /blog/column-writter-chinese-media
 language: en
 category:
   - Daily life
-modified: 2013-04-06T18:57:20Z
+last_modified_at: 2013-04-06T18:57:20Z
 ---
 
 I am very proud to announce that I from now on will write one column a week for the famous Chinese media; hupu.com. I was contacted by Hupu and after some good talks we decided to make a deal. My focus will of course be Chinese football and my view on the development and the CSL tournament as a foreign professional coach based in China Mainland.

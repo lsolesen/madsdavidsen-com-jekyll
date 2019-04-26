@@ -4,7 +4,7 @@ permalink: /blog/analysis-new-fc-barcelona-coach-and-his-philosophy
 language: en
 category:
   - Columns
-modified: 2013-07-25T05:50:46Z
+last_modified_at: 2013-07-25T05:50:46Z
 ---
 
 Gerardo Martino probably got the most attractive football job in the World earlier this week, but we don’t know his style and philosophy that well. Therefore, I have analyzed 6 of his recent games with Newell’s Old Boys and the Paraguay national team.

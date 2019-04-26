@@ -4,7 +4,7 @@ permalink: /blog/status-china-2014-goal-setting-and-future-thoughts
 language: en
 category:
   - Daily life
-modified: 2014-04-03T16:45:50Z
+last_modified_at: 2014-04-03T16:45:50Z
 ---
 
 I'm in a very busy period with a lot of travelling and match every week until the World Cup break. We had a solid start in the Chinese Super League with currently 8 points in the first 4 matches, so we are satisfied and in the top of league as planned.

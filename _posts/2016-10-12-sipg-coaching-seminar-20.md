@@ -4,7 +4,7 @@ permalink: /blog/sipg-coaching-seminar-20
 language: en
 category:
   - Daily life
-modified: 2016-10-12T14:24:09Z
+last_modified_at: 2016-10-12T14:24:09Z
 ---
 
 This past week, I hosted the Shanghai SIPG Coaching Seminar 2.0. We had all our youth coaches in Shanghai for 2-days moving into 'phase 2' of THE SIPG WAY - our club football philosophy & now we try to build a training and coaching methodology through out the club.

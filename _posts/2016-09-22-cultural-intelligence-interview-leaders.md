@@ -4,7 +4,7 @@ permalink: /blog/cultural-intelligence-interview-leaders
 language: en
 category:
   - Media
-modified: 2016-09-22T15:31:56Z
+last_modified_at: 2016-09-22T15:31:56Z
 ---
 
 I recently had a very interesting talk & discussion with some good people from LEADERS Institute about how to manage abroad and in a different culture.

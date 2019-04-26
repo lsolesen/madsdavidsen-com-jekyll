@@ -4,7 +4,7 @@ permalink: /blog/set-goals-targets-or-not
 language: en
 category:
   - Columns
-modified: 2018-01-04T15:07:53Z
+last_modified_at: 2018-01-04T15:07:53Z
 ---
 
 What’s your motivation? What’s your drive? And which experiences in your career do you remember in particular as meaningful? These questions can guide you towards your true inner drive and in time higher your performances and create a more sustainable career.

@@ -4,7 +4,7 @@ permalink: /blog/csl-2015-season-finished-silver-and-cl
 language: en
 category:
   - Daily life
-modified: 2015-11-04T16:09:58Z
+last_modified_at: 2015-11-04T16:09:58Z
 ---
 
 Our season in China is now finished, and we can be satisfied reaching our goal with silver (number 2) and qualification to the Asian Champions League in 2016. This has all the time been our main target for this first season at Shanghai SIPG F.C., so we and the management are very pleased with the results this year.

@@ -4,7 +4,7 @@ permalink: /blog/another-visit-evergrande-football-academy
 language: en
 category:
   - Daily life
-modified: 2014-01-28T09:33:42Z
+last_modified_at: 2014-01-28T09:33:42Z
 ---
 
 Today I made a visit for the second time at the Evergrande Football Academy about 75km from down town Guangzhou. Even I work for the rival club of the city, I have to make a mark for this amazing place.

@@ -4,7 +4,7 @@ permalink: /blog/chinese-column-dalian-and-liaoning
 language: en
 category:
   - Columns
-modified: 2013-04-06T18:13:19Z
+last_modified_at: 2013-04-06T18:13:19Z
 ---
 
 It is yet another interesting week of the CSL. A good top match between Evergrande and Beijing, but I will leave this one for now, because most of you readers watched it. Instead I will focus on other things and analyze the top teams and their performances in the ACL in my column for next week.

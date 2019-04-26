@@ -4,7 +4,7 @@ permalink: /blog/biased-game
 language: en
 category:
   - Columns
-modified: 2018-04-07T05:03:33Z
+last_modified_at: 2018-04-07T05:03:33Z
 ---
 
 The DNA of football is to win. Especially in the professional side of the game. The world of football is ‘black or white’; there are winners and losers - nothing in between.

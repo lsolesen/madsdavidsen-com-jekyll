@@ -4,7 +4,7 @@ permalink: /blog/holiday-and-future
 language: en
 category:
   - Daily life
-modified: 2014-11-13T11:41:19Z
+last_modified_at: 2014-11-13T11:41:19Z
 ---
 
 The Chinese football season ended on November 3rd with a 3-1 win at Jiangsu, and we are generally extremely satisfied with our results and performances reaching the club goal of a top 3 league positon and qualification for the Asian Champions League next season.

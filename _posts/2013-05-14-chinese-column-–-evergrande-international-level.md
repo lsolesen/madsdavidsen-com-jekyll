@@ -4,7 +4,7 @@ permalink: /blog/chinese-column-–-evergrande-international-level
 language: en
 category:
   - Columns
-modified: 2013-05-14T15:38:35Z
+last_modified_at: 2013-05-14T15:38:35Z
 ---
 
 We saw a great Friday match at Hongkou between Shenhua and Evergrande and also Greentown and East Asia had some good moments in a week, where R&F surprisingly enough won over Beijing.

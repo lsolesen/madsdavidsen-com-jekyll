@@ -4,7 +4,7 @@ permalink: /blog/joining-bbc-world-football
 language: en
 category:
   - Media
-modified: 2016-10-14T13:00:35Z
+last_modified_at: 2016-10-14T13:00:35Z
 ---
 
 Yesterday, I was interviewed for the 'BBC World of Football' podcast regarding the development of the Chinese national team, their current bad run of results and the change of head coach.
