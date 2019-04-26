@@ -13,7 +13,7 @@ locale                   : "en"
 title                    : "madsdavidsen.com"
 title_separator          : "-"
 name                     : "madsdavidsen.com"
-description              : "Mads is a professional Danish Football Coach. He is currently the Technical Director at the professional Chinese club Shanghai SIPG F.C. Mads holds the highest coaching license in the World - the UEFA PRO coaching license. Mads holds a Master in Journalism & History from Roskilde University in Denmark and a Mini MBA in Leadership & Management from Probana as well."
+description              : &description "UEFA Pro Football Coach | Owner at Optima Football | Technical Director & Strategic Advisor | Author | Keynote speaker"
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lsolesen/madsdavidsen-com-jekyll" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -91,7 +91,6 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-square"
       url: "https://dk.linkedin.com/in/mads-davidsen-9007545"
-
 
 # Reading Files
 include:
@@ -176,6 +175,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-redirect-from
+  - jekyll-include-cache
 
 
 # mimic GitHub Pages with --safe

@@ -24,12 +24,13 @@ author_profile: true
 * Technical Director at the Ebbe Sand Football Academy Shanghai, China
 * Football Expert on Chinese TV (HUPU)
 * Assistant Coach & Head of Recruitment at Chinese club Guangzhou R&F F.C. under Head Coach - Sven Goran Eriksson
-* 1. Team Coach, Analyst/Head of Recruitment & U23/Reserve Team Head Coach at SIPG F.C. (Shanghai, China) - under Sven Goran Eriksson
+* 1.Team Coach, Analyst/Head of Recruitment & U23/Reserve Team Head Coach at SIPG F.C. (Shanghai, China) - under Sven Goran Eriksson
 * Executive Board Member at Memphis City F.C.
 * Technical Advisor at Tonsser (international football APP)
 * Technical Director at Shanghai SIPG F.C.
 * Technical Advisor at El Cambio Academy (Uganda)
 * Technical Advisor at KMD (international data-project in football)
+* Owner at Optima Football
 
 ## Academic resume:
 
@@ -44,4 +45,4 @@ author_profile: true
 
 ## Marital status:
 
-* Lives in Shanghai, China, with my wife, Katrine
+* Lives in London with my wife, Katrine and our boy, Nohr Wu
