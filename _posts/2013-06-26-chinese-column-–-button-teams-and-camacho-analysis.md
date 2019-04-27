@@ -1,7 +1,7 @@
 ---
 title: "Chinese column –  Button teams and a Camacho-analysis"
 permalink: /blog/chinese-column-–-button-teams-and-camacho-analysis
-language: und
+language: en
 category:
   - Columns
 last_modified_at: 2013-06-26T14:35:44Z
@@ -19,13 +19,15 @@ Tianjin has to look at their defense and physical shape. Generally speaking it i
 
 Yesterday I did some scouting on some players, and I found a very interesting Tianjin player. Jiang Weipeng – 20 years old – could be a player soon to be in the starting 11 for Tianjin. Very interesting player. Central defender, left foot, solid on the ball, calm and modern in his style. I will definitely follow him in the future.
 
-**First win in 14 games**  
+**First win in 14 games**
+
 Changchun won their first victory this evening and big congrats to them. It must be a relief for the coach, staff and players to finally get the win and at the same time move over the relegation zone.  
 They actually played like a winning team with high intensity all the way, and I did not see a team falling apart like other teams without a win, so mentally they look strong, and this is important for them for the rest of the season because they are going to fight to avoid relegation.
 
 Their main problem is scoring goals. 9 goals in 14 matches will not make a lot of points. I like number 10 Isac and if Changchun can find a better partner for him – the team will score more goals. The issue for Isac right now is that he is used to doing things alone, so he tries too much and tries to do too difficult things instead of keeping it simple, so a new striker would really spike up the Changchun offense. Hopefully a fast one due to Isac’s strong physic in a partnership.
 
 **Camacho had to go**  
+
 As I have said before, I don’t like coaches being sacked. It’s very rarely the right decision and in the European book “Soccernomics”, some clever analyst show through data that a new coach often makes more points in the beginning, but after 3-6 month – he is just as good / bad as the old fired coach, so basically it was a waste to change coach.
 
 But in terms of Camacho as national coach of China, then I do believe that match was bad from the beginning. I didn’t see an enthusiastic coach or a coach, who really loved his job. And the players probably saw the same thing. And as soon as the players feel that a coach doesn’t like the project – their motivation goes down and the performance will be bad.
