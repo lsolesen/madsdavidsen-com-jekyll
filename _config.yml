@@ -76,7 +76,7 @@ analytics:
 author:
   name             : "Mads Davidsen"
   avatar           : "/assets/images/authors/mads-davidsen.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "UEFA Pro Football Coach | Technical Director at Shanghai SIPG F.C. (China) | Author of With Great Talent Comes Great Responsibility | Key note speaker"
+  bio              : *description
   location         : "Shanghai, China"
   links:
     - label: "Website"
