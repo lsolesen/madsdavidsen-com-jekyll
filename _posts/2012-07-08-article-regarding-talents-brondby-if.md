@@ -1,7 +1,7 @@
 ---
 title: "Article regarding the talents in Brondby IF"
 permalink: /blog/article-regarding-talents-brondby-if
-language: und
+language: da
 category:
   - Media
 last_modified_at: 2013-04-07T03:23:26Z
