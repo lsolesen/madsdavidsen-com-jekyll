@@ -1,7 +1,7 @@
 ---
 title: "Chinese column – Focus on Jiangsu Sainty"
 permalink: /blog/chinese-column-–-focus-jiangsu-sainty
-language: und
+language: en
 category:
   - Columns
 last_modified_at: 2013-07-02T05:44:58Z
@@ -17,8 +17,8 @@ Saturday evening Jiangsu played SIGP in Shanghai, and their style and type of fo
 
 A counter style is of course very useful from time to time, but I do not believe you can win a lot of trophies in modern football only playing on counter attacks. Head Coach Okuka most redevelop the team and reshape their offensive model to win back momentum and thereby more points. In modern football, it is extremely important to keep develop the players, the team and the team style. If you stop doing this and feel satisfied with the current style, you will be overrun by other more innovative teams in the near future. And that is what has happened to Jiangsu this season together with their leading goal scorer injured as mentioned.
 
-  
 **The Jiangsu style**  
+
 Jiangsu and coach Okuka plays a classic 4-4-2 formation with a flat midfield and two straight lines in the defense and on the midfield. When the team build up from their own goal, number 8 Liu Jianye is important for the team. He is the playmaker and he is very solid with the ball and makes good quality passes – mostly to the sides. But most of the times, Jiangsu’s keeper kicks a long and direct ball towards number 11 – the player with 8 goals so far this season – Albanian Hamdi Salihi. He will try to win the ball in the air and control it down to one of his teammates.
 
 Their wingers are classic wingers, which mean they stay wide in the pitch and don’t leave much space for the full backs to overlap them. Many clubs today use ‘false winger’, so the right footed winger plays to the left and the left footed winger plays to the right. With this model, the winger will move inside the pitch and create a majority and leave space to the full back to overlap and be the ‘winger’ of the team when having the ball. In some periods I saw a really interesting Jiangsu style, which is rare. When the two central defenders 3 Eleilson and 39 Tadjibaev were keeping possession of the ball, waiting to play forward, Jiangsu actually played a 2-4-4 system with the two full back on the same line as the two central midfielders and the two wingers at the same line as the two central strikers.
@@ -37,9 +37,10 @@ If you want to create chances against a well-organized team like Jiangsu, you ha
 
 So my conclusion of Jiangsu is that number 10 Danalache will improve the team, but Jiangsu also needs to improve their offense and find other methods to create chances and scoring goals. I don’t see them go much higher in the league table before they develop this aspect of their style.
 
-  
 **The CSL Season has passed round 15**  
+
 Now 50 % of the Chinese season is over, and it is always interesting to look at the league table and other statistics to make a temporary judgment.  
+
 Evergrande will as expected win the championship again. No doubt about that. The team from Guangzhou is almost from another planet and they have so good individual players that they maybe can be beaten one time, but not many times in a season.
 
 Fighting for the top 2-4 is a lot of teams right now. Shandong and Guizhou holds the two top positions as we speak, but from behind Beijing, Liaoning, Qingdao, Jiangsu and maybe even Guangzhou Fully can with a good autumn win momentum and a better league position.
