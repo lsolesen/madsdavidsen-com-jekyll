@@ -1,6 +1,8 @@
 ---
 title: Mads Davidsen - 麦斯大卫森
-permalink: /mads-davidsen-麦斯大卫森/
+permalink: /about-mads-davidsen/
+redirect_from:
+  - /mads-davidsen-麦斯大卫森/
 excerpt: >-
   UEFA Pro Football Coach - Owner at Optima Football - Technical Director &
   Strategic Advisor - Author - Keynote speaker
