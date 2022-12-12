@@ -44,3 +44,5 @@ Where should the club attack from, based on its own merits? And not least, defin
 It is “movement” and the ongoing performance that over time will solve the “purpose”... winning. Not the other way around.
 
 This requires visionary leadership, a balanced budget, a long-term football strategy, and the right people to implement and execute the plan over time. And therefore, we have designed and developed The Sustainable Model which can inspire and guide clubs to work strategically and more long-term driven.
+
+{% include figure image_path="https://optimafootball.com/____impro/1/onewebmedia/TheSustainableModel_final_jpg.jpg?etag=W%2F%2230c5b-5c2657d2%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=790%2B614&quality=85" %}
