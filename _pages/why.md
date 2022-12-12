@@ -1,5 +1,5 @@
 ---
-title: Our Why - Optima Football Acacemy - Educating the next generation
+title: Our Why - Optima Football Academy - Educating the next generation
 permalink: /our-why/
 excerpt: >-
   We wish to give something back to this amazing game by designing a new club model in a more sustainable way.
