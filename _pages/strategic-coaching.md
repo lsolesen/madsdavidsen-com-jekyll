@@ -1,5 +1,5 @@
 ---
-title: The Sustainable Model
+title: Strategic Planning & Coaching - The Sustainable Model
 permalink: /blog-tags/strategic-planning-coaching
 excerpt: >-
   The Sustainable Model from Optima Football is based on experience from builing
