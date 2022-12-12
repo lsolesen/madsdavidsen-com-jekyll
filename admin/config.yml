@@ -25,6 +25,7 @@ collections:
       - {label: "Category", name: "category", widget: "select", options: ["Daily life", "Strategic Planning & Coaching", "Columns", "Media"]}
       - {label: "Excerpt", name: "excerpt", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Link", name: "link", widget: "string"}
       - {label: "Last modified at", name: "last_modified_at", widget: "datetime", format: "YYYY-MM-DDThh:mm:ssZ", dateFormat: "DD-MM-YYYY", timeFormat: "HH:mm", required: false}
       - {label: "Language", name: "language", widget: "select", options: ["en", "da"]}
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
