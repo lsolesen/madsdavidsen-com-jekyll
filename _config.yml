@@ -11,15 +11,16 @@ minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en"
-title                    : "madsdavidsen.com"
+title                    : "Optima Football"
 title_separator          : "-"
-name                     : "madsdavidsen.com"
-description              : &description "Father - Global Traveller - UEFA PRO Football Coach - Owner at Optima Football - Technical / Strategic Advisor & Consultant - Author - Keynote speaker"
+name                     : "Optima Football"
+description              : &description "Strategic Planning and Coaching for professional football clubs. We bring your strategies to life."
 url                      : "https://madsdavidsen.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lsolesen/madsdavidsen-com-jekyll" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+logo                     : "https://optimafootball.com/____impro/1/onewebmedia/Optima_logo_simple_medium.jpg?etag=%224a31-5c23ef02%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=492%2B54&quality=85" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : false #"staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -48,7 +49,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "MadsRDavidsen"
+  username               : "MadsReDavidsen"
 facebook:
   username               : "Mads.Davidsen1982"
   app_id                 :
@@ -60,25 +61,22 @@ social:
   type                   : "Person" # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/MadsRDavidsen"
+    - "https://twitter.com/MadsReDavidsen"
     - "https://facebook.com/Mads.Davidsen1982"
     - "https://dk.linkedin.com/in/mads-davidsen-9007545"
 
 
 footer:
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://madsdavidsen.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/MadsRDavidsen"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/Mads.Davidsen1982"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://dk.linkedin.com/in/mads-davidsen-9007545"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/MadsReDavidsen"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/Mads.Davidsen1982"
 
 
 # Site search
@@ -99,18 +97,15 @@ author:
   bio              : *description
   location         : "London, England"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://madsdavidsen.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/MadsRDavidsen"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/Mads.Davidsen1982"
+      url: "https://twitter.com/MadsReDavidsen"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://dk.linkedin.com/in/mads-davidsen-9007545"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/Mads.Davidsen1982"
 
 # Reading Files
 include:

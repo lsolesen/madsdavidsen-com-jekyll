@@ -1,19 +1,41 @@
 # main links
 main:
-  - title: "Daily Life"
-    url: /blog-tags/daily-life
-  - title: "Strategic Planning & Coaching"
-    url: /blog-tags/strategic-planning-coaching
-  - title: "Columns"
-    url: /blog-tags/columns
-  - title: "Media"
+  - title: "Our why?"
+    url: /our-why/
+  - title: Club advisory
+    url: /home/consulting.html
+  - title: Key note speaks
+    url: /book/
+  - title: Media & Press
     url: /blog-tags/media
+  - title: Blog
+    url: /blog/
+#  - title: "Daily Life"
+#    url: /blog-tags/daily-life
+#  - title: "Strategic Planning & Coaching"
+#    url: /blog-tags/strategic-planning-coaching
+#  - title: "Columns"
+#    url: /blog-tags/columns
+#  - title: "Media"
+#    url: /blog-tags/media
 sidebar:
   - title: "Shortcuts"
     children:
       - title: "About Mads Davidsen"
-        url: /mads-davidsen-麦斯大卫森/
+        url: /about-mads-davidsen/
       - title: "Book a presentation"
         url: /book/
       - title: "Resume"
         url: /cv/
+      - title: "Daily Life"
+        url: /blog-tags/daily-life
+      - title: "Strategic Planning & Coaching"
+        url: /blog-tags/strategic-planning-coaching
+      - title: "Columns"
+        url: /blog-tags/columns
+      - title: "Club Advisory"
+        url: /home/consulting.html
+      - title: Academy
+        url: /home/academy.html
+      - title: Transfers Consultancy
+        url: /home/transfers.html
