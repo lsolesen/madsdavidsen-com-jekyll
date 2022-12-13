@@ -15,3 +15,6 @@ mads_davidsen:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/Mads.Davidsen1982"
+    - label: "Resume"
+      icon: "fab fa-fw fa-envelope"
+      url: /cv/
