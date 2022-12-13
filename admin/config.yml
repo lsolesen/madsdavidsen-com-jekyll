@@ -23,7 +23,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "hidden"}
       - {label: "Category", name: "category", widget: "select", options: ["Daily life", "Strategic Planning & Coaching", "Columns", "Media"]}
-      - {label: "Excerpt", name: "excerpt", widget: "string"}
+      - {label: "Excerpt", name: "excerpt", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Link", name: "link", widget: "string"}
       - {label: "TOC", name: "toc", widget: "select", options: ["", "true", "false"], required: false}
@@ -39,7 +39,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "hidden"}
-      - {label: "Excerpt", name: "excerpt", widget: "string"}
+      - {label: "Excerpt", name: "excerpt", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}      
       - label: "Header"
         name: "header"
