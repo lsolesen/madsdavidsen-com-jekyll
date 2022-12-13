@@ -2,11 +2,12 @@
 title: Keynote Speaker
 permalink: /book/
 excerpt: >-
-  UEFA Pro Football Coach - Technical Director at Shanghai SIPG F.C. (China) -
-  Author of With Great Talent Comes Great Responsibility - Key note speaker
+  Book a presentation from Optima Football and get inspired. Mads Davidsen has in the past decade done presentations for companies, clubs, organisations and universities.
 header:
-  image: /assets/images/md-speaks.jpg
+  overlay_image: /assets/images/md-speaking.jpg
+author: mads_davidsen
 author_profile: true
+toc: true
 ---
 
 Book a presentation from Optima Football and get inspired.

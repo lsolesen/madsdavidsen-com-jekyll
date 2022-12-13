@@ -21,7 +21,9 @@ Also, the administrative and sporting departments in a club are often divided, a
 
 That is one reason why many clubs experience a lack of transparency and an unsuccessful implementation of the strategy in the different corners of the club.
 
-That's why we have created "THE SUSTAINABLE MODEL" (see below).
+That's why we have created "THE SUSTAINABLE MODEL".
+
+![Optima Football Sustainable Model](/assets/images/uploads/thesustainablemodel_final_jpg.jpg)
 
 With the help of Optima Football, the model lets a club convert its overall vision and strategy into a style of play, a training methodology, a recruitment strategy, and an academy master plan.
 
@@ -45,4 +47,4 @@ It is “movement” and the ongoing performance that over time will solve the �
 
 This requires visionary leadership, a balanced budget, a long-term football strategy, and the right people to implement and execute the plan over time. And therefore, we have designed and developed The Sustainable Model which can inspire and guide clubs to work strategically and more long-term driven.
 
-{% include figure image_path="https://optimafootball.com/____impro/1/onewebmedia/TheSustainableModel_final_jpg.jpg?etag=W%2F%2230c5b-5c2657d2%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=790%2B614&quality=85" %}
+![Optima Football Sustainable Model](/assets/images/uploads/thesustainablemodel_final_jpg.jpg)

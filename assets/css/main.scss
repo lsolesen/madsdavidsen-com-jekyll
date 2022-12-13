@@ -1,0 +1,37 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.sidebar {
+  position: relative;
+  &.sticky {
+    overflow-y: auto;
+    /* calculate height of nav list
+       viewport height - nav height - masthead x-padding
+    */
+    max-height: 100%;
+  }
+}
+
+.greedy-nav {
+  height: $nav-height;
+  max-height: $nav-height;
+}
+
+body.layout--single {
+    .feature__item--left, .feature__item--right {
+        h2.archive__item-title {
+            margin-top: 1em !important;
+            margin-bottom: 0em !important;
+            font-size: 0.9em !important;
+        }
+        .archive__item-excerpt p:first {
+            margin-top: 0em !important;
+        }
+    }
+}

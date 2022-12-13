@@ -5,8 +5,7 @@ excerpt: >-
   The Sustainable Model from Optima Football is based on experience from builing
   professional football clubs all over the world.
 header:
-  image: ''
-  overlay_image: /assets/images/uploads/optima-logo-2.png
+  image: /assets/images/uploads/optima-logo-2.png
 author_profile: true
 ---
 Welcome to my company '**Optima Football**' and our 'Sustainable Model'.
