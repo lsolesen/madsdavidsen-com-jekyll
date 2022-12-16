@@ -1,10 +1,10 @@
 {
-  "name": "optimafootball.com",
+  "name": "madsdavidsen.com",
   "version": "1.0.0",
-  "description": "Official site for optimafootball.com.",
+  "description": "Official site for madsdavidsen.com.",
   "repository": {
     "type": "https",
-    "url": "https://github.com/lsolesen/optimafootball-com-jekyll.git"
+    "url": "https://github.com/lsolesen/madsdavidsen-com-jekyll.git"
   },
   "keywords": [
     "jekyll",
